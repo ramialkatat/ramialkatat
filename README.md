@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramialkatat
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning R programming
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: Email: rma10077@students.aust.edu.lb
 
 <!---
